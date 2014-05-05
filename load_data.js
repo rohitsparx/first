@@ -22,6 +22,7 @@ function setter()
 
 $(document).ready(function(){
 	setter();
+        window.alert(1);
 });
 
 // index page 
